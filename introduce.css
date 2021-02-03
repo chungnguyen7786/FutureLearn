@@ -1,0 +1,30 @@
+
+.introduce {
+    margin-top: 2rem;
+}
+.introduce h1 {
+    font-size: 3rem;
+}
+
+.introduce p {
+    font-size: 1.5rem;
+}
+
+.more {
+    display: flex;
+    flex-direction: row;
+    align-items: center;      
+}
+
+.more a {
+    height: 2.6rem;   
+    display: flex;
+    flex-direction: row; 
+    align-items: center;    
+}
+
+.more .a3 {
+    height: 2.5rem;
+    margin-right: 1rem;
+}
+

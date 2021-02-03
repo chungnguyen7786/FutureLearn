@@ -1,0 +1,9 @@
+.banner {
+    width: 47rem;
+    height: 20rem;
+    background-image: url(./fl-homepage-banner-image-desktop.jpg);
+    background-size: 120%;
+    background-position: -10rem 26rem;
+    margin-top: 2rem;
+}
+

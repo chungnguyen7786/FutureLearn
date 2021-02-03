@@ -1,6 +1,6 @@
 * {
     font-family: Europa,Helvetica Neue,Arial,sans-serif;
-     
+    border: 1px sol id black;
 }
 
 body {
@@ -10,6 +10,9 @@ body {
 .a1 {
     text-decoration: none;
     color: rgb(218, 11, 166);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: bold;
 }
 
 .a1:hover {
@@ -18,9 +21,27 @@ body {
 
 .a2 {
     text-decoration: none;
+    color: white;
     background-color: rgb(218, 11, 166);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: bold;
 }
 
 .a2:hover {
     background-color: blue;    
+}
+
+.a3 {
+    text-decoration: none;
+    color: rgb(218, 11, 166);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: bold;
+    border: solid 1px rgb(218, 11, 166);
+}
+
+.a3:hover {
+    color: blue;    
+    border: solid 1px blue; 
 }
