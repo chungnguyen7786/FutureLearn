@@ -1,0 +1,26 @@
+* {
+    font-family: Europa,Helvetica Neue,Arial,sans-serif;
+     
+}
+
+body {
+    margin-top: 2rem;
+}
+
+.a1 {
+    text-decoration: none;
+    color: rgb(218, 11, 166);
+}
+
+.a1:hover {
+    color: blue;    
+}
+
+.a2 {
+    text-decoration: none;
+    background-color: rgb(218, 11, 166);
+}
+
+.a2:hover {
+    background-color: blue;    
+}
