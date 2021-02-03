@@ -9,10 +9,7 @@ body {
 
 .a1 {
     text-decoration: none;
-    color: rgb(218, 11, 166);
-    padding-left: 1rem;
-    padding-right: 1rem;
-    font-weight: bold;
+    color: rgb(218, 11, 166);    
 }
 
 .a1:hover {

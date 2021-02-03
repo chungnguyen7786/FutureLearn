@@ -1,7 +1,8 @@
 .menu {
-    font-size: 1.3rem;    
+    font-size: 1.5rem;    
     display: flex;
     flex-direction: row;
+    font-weight: bold;
 }
 
 .subjects, .courses, .using {
