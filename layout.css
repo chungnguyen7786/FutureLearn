@@ -1,7 +1,10 @@
 * {
-    font-family: Europa,Helvetica Neue,Arial,sans-serif;
-    border: solid 1px black;
+    font-family: Europa,Helvetica Neue,Arial,sans-serif;    
     
+}
+
+body {
+    margin-top: 2rem;
 }
 
 .wrapper {
