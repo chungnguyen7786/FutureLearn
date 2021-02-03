@@ -1,0 +1,13 @@
+.learn1, .learn2, .learn3 {
+    margin-right: 2rem;
+}
+
+.learn1 .icon, .learn2 .icon, .learn3 .icon {
+    width: 2rem;
+}
+
+.learn1 .learn, .learn2 .learn, .learn3 .learn {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
