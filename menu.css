@@ -1,0 +1,21 @@
+.menu {
+    font-size: 1.3rem;    
+    display: flex;
+    flex-direction: row;
+}
+
+.subjects, .courses, .using {
+    margin-right: 1.2rem;
+}
+
+.a1 {
+    text-decoration: none;
+    color: rgb(218, 11, 166);
+    font-weight: bold;    
+}
+
+.a1:hover {
+    color: blue
+    
+}
+
