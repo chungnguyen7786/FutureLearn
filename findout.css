@@ -1,0 +1,19 @@
+.explore {
+    height: 19rem;
+    background-image: url(./left.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 -6rem; 
+    padding-left: 26rem;
+    padding-top: 2rem;
+    color: white;       
+}
+
+.explore .info {
+    font-size: 1rem;
+    
+}
+
+.explore .main {
+    font-size: 2rem;
+}

@@ -5,6 +5,8 @@
 
 body {
     margin-top: 2rem;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .a1 {
@@ -41,4 +43,17 @@ body {
 .a3:hover {
     color: blue;    
     border: solid 1px blue; 
+}
+
+.a4 {
+    text-decoration: none;
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: bold;
+    border: solid 1px white;
+}
+
+.a4:hover {
+    background-color: blue;    
 }
