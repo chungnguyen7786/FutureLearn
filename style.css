@@ -52,13 +52,19 @@ body {
     padding-right: 1rem;
     font-weight: bold;
     border: solid 1px white;
+    font-size: 0.85rem;
 }
 
 .a4:hover {
     background-color: blue;    
 }
 
-.why {
+.a5 {
+    text-decoration: none;
+    color: white;
+}
+
+.why, .subjects {
     font-size: 2rem;
     font-weight: bold;
     display: flex;
@@ -66,4 +72,24 @@ body {
     justify-content: center;
     margin-top: 3.5rem;
     margin-bottom: 2.5rem;
+}
+
+.view_all_subjects {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2.5rem;
+    margin-bottom: 3rem;
+    line-height: 0;
+   
+}
+
+.view_all_courses {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2.5rem;
+    margin-bottom: 3rem;
+    line-height: 0;
+   
 }

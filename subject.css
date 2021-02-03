@@ -1,0 +1,58 @@
+.subject1 {    
+    background-image: url(./business.jpg);
+    background-repeat: no-repeat;
+    margin-right: 1rem;
+    height: 8rem;
+    background-position: 0 -7rem;
+    text-align: center;
+    color: white;
+}
+
+.subject1 a p svg{
+    width: 2rem;    
+}
+
+.subject1 a .name {
+    color: white;
+    font-size: 1.5rem;    
+}
+
+
+.subject2 {    
+    background-image: url(./healthcare.jpg);
+    background-repeat: no-repeat;
+    margin-right: 1rem;
+    height: 8rem;
+    background-position: 0 -7rem;
+    text-align: center;
+    color: white;
+}
+
+.subject2 a p svg{
+    width: 2rem;    
+}
+
+.subject2 a .name {
+    color: white;
+    font-size: 1.5rem;    
+}
+
+
+.subject3 {    
+    background-image: url(./teaching.jpg);
+    background-repeat: no-repeat;
+    margin-right: 1rem;
+    height: 8rem;
+    background-position: 0 -7rem;
+    text-align: center;
+    color: white;
+}
+
+.subject3 a p svg{
+    width: 2rem;    
+}
+
+.subject3 a .name {
+    color: white;
+    font-size: 1.5rem;    
+}

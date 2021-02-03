@@ -1,19 +1,20 @@
-.explore {
+.findout {
     height: 19rem;
-    background-image: url(./left.jpg);
+    background-image: url(./right.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: 0 -6rem; 
-    padding-left: 26rem;
+    padding-left: 5rem;
     padding-top: 2rem;
     color: white;       
 }
 
-.explore .info {
-    font-size: 1rem;
+.findout .info {
+    font-size: 0.9rem;
     
 }
 
-.explore .main {
-    font-size: 2rem;
+.findout .main {
+    font-size: 1.7rem;
+    line-height: 3rem;
 }
