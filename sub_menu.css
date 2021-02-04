@@ -1,0 +1,26 @@
+.sub_menu {
+    border-top: solid 1px rgb(211, 211, 211);
+    padding-top: 3rem;
+}
+
+.sub_menu .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 26rem 0 22rem;
+}
+
+.sub_menu .content .sub1 {
+    width: 17rem;
+    padding-left: 1rem;
+    text-align: center;
+}
+
+.sub_menu .content .sub1 a {
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.sub_menu .content .sub1 .des {
+    font-size: 1.1rem;
+}

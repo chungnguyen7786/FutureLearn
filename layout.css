@@ -45,7 +45,7 @@
 
 .blank3 {
     grid-column: 1/5;
-    grid-row: 5/14;
+    grid-row: 5/13;
 }
 
 .why {
@@ -54,7 +54,7 @@
 
 .blank4 {
     grid-column: 17/21;
-    grid-row: 5/14;
+    grid-row: 5/13;
 }
 
 .learn1 {
@@ -114,15 +114,11 @@
 }
 
 .sub_menu {
-    grid-column: 5/17;
+    grid-column: 1/21;
 }
 
 .purpose {
-    grid-column: 1/11;
-}
-
-.sigup {
-    grid-column: 11/21;
+    grid-column: 1/21;
 }
 
 .bottom_menu {

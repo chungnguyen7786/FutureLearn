@@ -1,0 +1,21 @@
+.socials {
+    background-color: rgb(53, 51, 51);
+}
+
+.socials .content  { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+    margin: 0 24rem 4rem 24rem;
+    font-size: 1.5rem;
+    color: white;
+    padding-top: 4rem;     
+}
+
+.socials .content a {
+    margin-right: 1.5rem;
+}
+
+.socials .content a:visited {
+    color: white;
+}

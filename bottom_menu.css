@@ -1,0 +1,40 @@
+.bottom_menu {
+    background-color: rgb(80, 81, 82);
+}
+
+.bottom_menu .content  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 24rem 4rem 24rem;    
+}
+
+.co1, .co2, .co3, .co4, .co5, .co6 {
+    width: 16%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 1rem;
+    color: white;
+    font-size: 1.1rem;
+
+}
+
+.bottom_menu .content div span {
+    margin-bottom: 1.3rem;
+    margin-top: 3rem;
+    
+}
+
+.bottom_menu .content div a {
+    text-decoration: none;
+    line-height: 1.8rem;    
+}
+
+.bottom_menu .content div a:hover {
+    text-decoration: underline;
+    color: white;    
+}
+
+.bottom_menu .content div a:visited {    
+    color: white;    
+}
