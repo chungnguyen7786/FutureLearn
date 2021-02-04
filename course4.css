@@ -1,0 +1,42 @@
+.course4 {
+    width: 16.8rem;
+    background-image: url(./course4.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;   
+}
+
+.course4 .note {
+    background-color: rgb(224, 224, 224);
+    font-weight: bold;
+}
+
+.course4 .content {
+    margin-top: 9.3rem;
+    height: 17.5rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(240, 240, 240);
+    
+}
+
+.course4 .content a .uni {
+    color: gray;
+}
+
+.course4 .content a .new {
+    color: white;
+    background-color: red;
+}
+
+.course4 .content a .title {
+    font-size: 1.3rem;
+    font-weight: bold;    
+}
+
+.course4 .content a:visited .title {
+    color: black;
+}
+
+
+

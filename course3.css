@@ -1,0 +1,46 @@
+.course3 {
+    width: 16.8rem;    
+    background-image: url(./course3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.course3 .content {
+    height: 17.5rem;
+    margin-top: 10.5rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(240, 240, 240);
+}
+
+.course3 .content a .uni {
+    color: gray;
+}
+
+.course3 .content a .title {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.course3 .content a:visited .title {
+    color: black;
+}
+
+.course3 .content a .star i {
+    color: rgb(255, 217, 0);    
+}
+
+.course3 .content a:visited .star i {
+    color: rgb(255, 217, 0);
+}
+
+.course3 .content a .star .rate {
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.course3 .content a:visited .star .rate {
+    color: black;
+    font-weight: bold;
+}
